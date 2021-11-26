@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parveenkaurdeol
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Python with Selenium
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software Testing Projects
 - 📫 How to reach me connectparveenkaur@gmail.com
 
 <!---
